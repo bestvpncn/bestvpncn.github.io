@@ -157,7 +157,7 @@ Hi,I live in China,and I can't download *XX* VPN on my iPhone because it was not
 
 >注意：因为防火长城的不断迭代更新，过去几年很多VPN商家接二连三遭受屏蔽或跑路。下文的几个VPN，都经过我长期的使用和测试，对防火长城封锁的应对最快，能比较快速地进行软件客户端和服务器节点的更新，能满足国内用户长期使用的需求。另外，该文章会不断更新，请收藏本页面以便以后查看。
 
-## 1.<a rel="nofollow noopener" href="https://linkv.org/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
+## 1.<a rel="nofollow noopener" href="https://jixiaobai.club/links/express/" target="_blank"> ExpressVPN – 速度体验最佳</a>
 
 >2021年7月使用，确认可用，各平台（包括手机端APP和电脑客户端）的综合体验在我测试使用的几款中表现最好，尤其是LA-5、Marina Bay线路的速度很快，特别是这款VPN在iPhone上的使用体验在我所测试的这些VPN中表现最好，由于iOS系统的封闭性对有些连接协议不支持，大多数VPN软件在国内并不好用，**ExpressVPN的iOS版本内置了LightWay（UDP/TCP）和IKEV2协议，LightWay是Express官方新推出的独家开发的协议，一键连接效果很不错，iPhone用户首选这款**。目前由于国内政策原因，支付宝付款方式被暂停了，可以优先选择Paypal、国内银联卡或带外币功能的信用卡购买。
 
@@ -199,7 +199,7 @@ ExpressVPN已通过普华永道对于隐私保护机制的审计 —— 就是�
 
 ### 如何购买ExpressVPN
 
-因为国内政策原因，目前能使用支付宝付款的大厂VPN越来越少，如果只接受支付宝付款方式，就不用考虑ExpressVPN了，[StrongVPN](#2-strongvpn--性价比最佳)和<a rel="nofollow noopener" href="https://linkv.org/lightyear/" target="_blank">光年VPN</a>目前能用支付宝。如果没有带外币功能的信用卡（VISA/MasterCard等）和Paypal，国内银行卡（银联）也能支付。
+因为国内政策原因，目前能使用支付宝付款的大厂VPN越来越少，如果只接受支付宝付款方式，就不用考虑ExpressVPN了，[StrongVPN](#2-strongvpn--性价比最佳)和<a rel="nofollow noopener" href="https://jixiaobai.club/links/expressvpn" target="_blank">光年VPN</a>目前能用支付宝。如果没有带外币功能的信用卡（VISA/MasterCard等）和Paypal，国内银行卡（银联）也能支付。
 
 国内银行卡购买ExpressVPN步骤如下：
 
@@ -340,7 +340,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 >下载安装Strong客户端和使用请详细阅读本文，避免后续使用出现问题。
 
-有梯子的同学直接可访问<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
+有梯子的同学直接可访问<a rel="nofollow noopener" href="https://jixiaobai.club/links/nordvpn/" target="_blank">StrongVPN官网</a>，但如果在套餐下单时页面出现“We detected that you are using a VPN or Proxy service...”而不能购买（可以顺利下单的话不用管），说明StrongVPN反欺诈系统检测到你是用代理IP访问的（国外存在代理IP盗刷信用卡），要断开梯子使用本地网络访问官网，方法如下文。
 
 **国内本地网络访问方法**：Strong官网在中国被墙，国内打开官网需要改电脑Host文件，因为其官网DNS在天朝被定位到不能访问的IP，需要修改本地的DNS才能访问。
 
@@ -350,7 +350,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
-3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank"> 点击获取StrongVPN优惠</a>。
+3.完成之后清空浏览器缓存、刷新浏览器，或用另一浏览器访问本页面，然后<a rel="nofollow noopener" href="https://jixiaobai.club/links/nordvpn/" target="_blank"> 点击获取StrongVPN优惠</a>。
 
 完成之后，就可以正常访问官网和使用客户端了。购买后，在手机安装APP客户端请参考：[怎么下载和登录VPN客户端?](#怎么下载和登录vpn客户端)
 
@@ -374,7 +374,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 ### 如何获取StrongVPN？
 
-1.进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
+1.进入<a rel="nofollow noopener" href="https://www.jixiaobai.club/links/ivacyvpn/" target="_blank">StrongVPN官网</a>（右键打开），然后点击“Join Now”按钮，进入选择套餐页面：
 
 [![Strong-device](https://www.safewebcn.com/img/strongvpn-plan-price-min.png)](#如何获取strongvpn)
 
@@ -384,9 +384,9 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 输入Email注册，付款之后系统会自动分配初始登录密码，发送到注册的Email邮箱。
 
-在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以直接下载客户端并安装使用了。
+在支付之后，查看邮箱收到的初始登录密码，<a rel="nofollow noopener" href="https://www.jixiaobai.club/links/ivacyvpn/" target="_blank">进入StrongVPN官网</a>登陆账号，一般就可以直接下载客户端并安装使用了。
 
-**如果后续不能登录或使用，查看是不是支付过程出现了问题导致扣款失败**，需要<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
+**如果后续不能登录或使用，查看是不是支付过程出现了问题导致扣款失败**，需要<a rel="nofollow noopener" href="https://www.jixiaobai.club/links/ivacyvpn/" target="_blank">登录官网用户后台</a>确认支付，点击“Billing Area”：
 
 [![Strong-billing](https://www.safewebcn.com/img/strongvpn-billing-min.png)](#如何获取strongvpn)
 
@@ -412,7 +412,7 @@ StrongVPN同样也是全球排名前列的大牌服务商，属于美国J2 Globa
 
 ### 使用建议
 
->**中国Window用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）**，这是我找官网技术客服给我的，推荐在中国使用的。因为墙的干扰标准版的客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用，**最新版请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会给你设置账号和最新版精简版客户端**。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://linkv.org/strongcn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
+>**中国Window用户建议<a rel="nofollow noopener" href="https://mirror2.reliablehosting.com/win/StrongVPN_Win-latest.exe" target="_blank">下载StrongVPN的精简版客户端V1 app</a>（<a rel="nofollow noopener" href="https://www.safewebcn.com/download/strongwin-1.65.exe" target="_blank">备用下载地址</a>）**，这是我找官网技术客服给我的，推荐在中国使用的。因为墙的干扰标准版的客户端在国内部分地区首次使用账号登录困难，精简版客户端更适合在中国使用，**最新版请咨询官网右下角客服获取，直接说在中国使用StrongVPN客服就懂了，会给你设置账号和最新版精简版客户端**。安装专用精简版之前，可能需要把官网的标准版先装上，因为有读者反映Win10直接安装精简版出现问题，要先安装标准版，如果安装有问题，可以参考<a rel="nofollow noopener" href="https://github.com/vpncn/vpncn.github.io/issues/23" target="_blank">用户nukupanda的问题#23</a>。也可以查看官网关于程序安装所需组件的文章，进入<a rel="nofollow noopener" href="https://jixiaobai.club/links/nordvpn/" target="_blank">Strong官网</a>，点击右上角help，搜索“.NET Framework”的文章。如果仍有问题，可以在官网右下角的“Zendesk chat”聊天框，选择Technical Support（技术支持）提出你的问题。
 >
 >**重要提示**：有部分读者反映购买StrongVPN后，在StrongVPN特供的精简版V1 App中无法选择OpenVPN协议或是登陆出现问题，就此我咨询了客服，如果出现这种情况，需要在官网右下角联系技术客服"Technical Support"，联系客服说在中国使用就行了，客服会马上帮你开通OpenVPN account；或者在用户后台发个ticket：点击“Support Ticket”，点击“Submit new ticket”，提交开通OpenVPN account，一般很快就会开通。下图是本文读者反馈使用StrongVPN的一些经验（感谢这位读者的反馈^-^），如果使用过程中出现问题可以参考：
 
@@ -561,7 +561,7 @@ StrongVPN虽然客户端不支持中文，但是对在在中国的用户反应�
 StrongVPN同样支持30天退款保证，有足够的时间测试使用。
 
 
-## 3.<a rel="nofollow noopener" href="https://linkv.org/nord/" target="_blank"> NordVPN</a>
+## 3.<a rel="nofollow noopener" href="https://jixiaobai.club/links/nordvpn/" target="_blank"> NordVPN</a>
 
 [![NordVPN](https://www.safewebcn.com/img/nord-min.png)](#3-nordvpn)
 
@@ -615,7 +615,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 
 
-## 4.<a rel="nofollow noopener" href="https://linkv.org/ivacy" target="_blank"> IVacy</a>
+## 4.<a rel="nofollow noopener" href="https://jixiaobai.club/links/ivacyvpn" target="_blank"> IVacy</a>
 
 [![IVacy](https://www.safewebcn.com/img/ivacy-logo.png)](#6-ivacy)
 
@@ -631,7 +631,7 @@ NordVPN在60个国家和地区拥有5700多个服务器，在看视频或者下�
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
-3.完成之后清空浏览器缓存、刷新浏览器，然后[获取IVacy官网优惠](https://linkv.org/ivacy)。
+3.完成之后清空浏览器缓存、刷新浏览器，然后[获取IVacy官网优惠](https://jixiaobai.club/links/ivacyvpn)。
 
 完成之后，就可以正常访问官网和使用客户端了。
 
@@ -657,7 +657,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 在使用过程中如果遇到问题，可以在任意时刻联系他们的客户服务团队。
 
-## 5.<a rel="nofollow noopener" href="https://linkv.org/pure/" target="_blank"> PureVPN</a>
+## 5.<a rel="nofollow noopener" href="https://jixiaobai.club/links/purevpn/" target="_blank"> PureVPN</a>
 
 [![PureVPN](https://www.safewebcn.com/img/purevpn-logo.png)](#6-purevpn)
 
@@ -671,7 +671,7 @@ IVacy不限制同时在线的设备数量，这算是一个独树一帜的特点
 
 2.Windows用户将下载的hosts文件移动到文件夹 `C:\Windows\System32\drivers\etc` （Mac的文件夹是 `/etc/hosts`），建议备份系统自带的原始hosts文件。如果本地hosts文件之前自己修改过，用记事本打开下载的hosts文件，把里面的信息全部复制到原来的hosts文件中保存就行了。
 
-3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取PureVPN官网优惠](https://linkv.org/pure/)。
+3.完成之后清空浏览器缓存、刷新浏览器，然后[点击获取PureVPN官网优惠](https://jixiaobai.club/links/purevpn/)。
 
 完成之后，就可以正常访问官网和使用客户端了。
 
@@ -761,9 +761,9 @@ VyprVPN目前在中国表现怎么样？只能说这款VPN目前在中国虽然�
 
 ### 其他翻墙姿势
 
-上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，ip太容易被墙。如果有读者要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装V2Ray或者Shadowsocks，VPS位置最好选择美国西海岸，Los Angeles/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>，性价比较高，IP较新，也存在一些被封的IP，但相较于Vultr等国人扎堆的VPS好很多。V2Ray最近比较火，搭建也不复杂，<a rel="nofollow noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过并应用到防火长城之后，V2ray也就不好用了。
+上文说过，通过租用国外服务器自己搭建翻墙工具我不是很推荐，ip太容易被墙。如果有读者要玩VPS翻墙的话，现在主流的在服务器搭建的科学上网方法是安装V2Ray或者Shadowsocks，VPS位置最好选择美国西海岸，Los Angeles/San Francisco或附近地区，相对比较稳定一些，VPS服务器选择<a rel="nofollow noopener" href="https://jixiaobai.club/links/purevpn/" target="_blank">HostWinds</a>，性价比较高，IP较新，也存在一些被封的IP，但相较于Vultr等国人扎堆的VPS好很多。V2Ray最近比较火，搭建也不复杂，<a rel="nofollow noopener" href="https://www.v2ray.com/" target="_blank">官网</a>提供了详细的搭建过程，也提供了客户端软件。不建议购买一些付费Shadowsocks ，毕竟Shadowsocks以及它的升级版SSR代码都是开源的，很容易墙破解，而且个人隐私信息的安全也没有绝对的保证。北京理工大学在2019年提交的论文【基于长短期记忆网络的V2ray流量识别方法】的专利申请正在审核中，一旦审核通过并应用到防火长城之后，V2ray也就不好用了。
 
-> 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，**网络技术和经验不深的读者不推荐这种方法**，因为现在自己租用VPS服务器架设、搭建梯子，使用市面常规通用协议很容易被墙探测到并屏蔽IP，很可能VPS服务器就只能放着吃灰了，因为现在较流行的翻墙协议和技术无非是SS（R）、V2Ray、Trojan、Vmess等，目前防火长城主要是学习和判别流量特征，对这几种都能比较准确的识别和封锁，像这种与同一台境外VPS或域名进行长时间、大流量传输本来就不正常，无论流量怎么伪装都会有这种特征，下一次大规模屏蔽也只是时间的问题；其次，**热门的<a rel="nofollow noopener" href="https://linkv.org/bandwagon/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://linkv.org/hostwinds/" target="_blank">HostWinds</a>是个还不错的替代选择，相对来说目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度会快些，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都还凑合。可以免费换IP（但不保证全新），换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
+> 如果打算自己用**VPS自己搭建梯子**，首先你要确保能自己应对使用VPS时可能出现的问题，比如无法连接、IP被封，**网络技术和经验不深的读者不推荐这种方法**，因为现在自己租用VPS服务器架设、搭建梯子，使用市面常规通用协议很容易被墙探测到并屏蔽IP，很可能VPS服务器就只能放着吃灰了，因为现在较流行的翻墙协议和技术无非是SS（R）、V2Ray、Trojan、Vmess等，目前防火长城主要是学习和判别流量特征，对这几种都能比较准确的识别和封锁，像这种与同一台境外VPS或域名进行长时间、大流量传输本来就不正常，无论流量怎么伪装都会有这种特征，下一次大规模屏蔽也只是时间的问题；其次，**热门的<a rel="nofollow noopener" href="https://jixiaobai.club/links/purevpn/" target="_blank">搬瓦工BandWagonHost</a>、Vultr和DO几个国人扎堆的机房不建议使用**，因为IP被墙的太严重，很可能刚开的VPS的IP就是不能用的。目前<a rel="nofollow noopener" href="https://jixiaobai.club/links/ivacyvpn/" target="_blank">HostWinds</a>是个还不错的替代选择，相对来说目前还没有很多国人扎堆，IP相对较新，便宜流量大，可月付、可支付宝，基础计划每月$4.49，1核1GB内存30GB磁盘，1Gbps带宽，每月1TB流量，优先选择美国西海岸Seattle机房，国内访问网络速度会快些，HostWinds的VPS用来搭梯子（技术小白不推荐）和建站都还凑合。可以免费换IP（但不保证全新），换IP的方法：进入VPS管理后台，点击Manage IP’s -->点击Fix ISP Block按钮-->点击确认Confirm。
 
 ## 关于VPN的一些问题
 
